@@ -1,5 +1,6 @@
 package Java_kurs.HomeWork1;
 //NEW version odd LYNX
+////uyguiiiv v3
 public class  Lynx {
     private String name;
     private String color;

@@ -1,6 +1,6 @@
 package Java_kurs.HomeWork1;
 
-public class  Lynx {
+public class  Lynx{
     private String name;
     private String color;
 
